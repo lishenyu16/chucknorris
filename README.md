@@ -6,4 +6,5 @@ a simple react app using online free api
 npm install
 
 ## Start the app
-npm start
+$cd chucknorris
+$npm start
